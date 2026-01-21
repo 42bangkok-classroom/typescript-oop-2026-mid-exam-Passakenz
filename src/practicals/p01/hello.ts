@@ -1,2 +1,3 @@
 // Write your code below
-console.log("hello ts");
+console.log("Hello Exam");
+
